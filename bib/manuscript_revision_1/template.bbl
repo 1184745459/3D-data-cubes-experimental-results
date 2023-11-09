@@ -1,0 +1,153 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{{#1}}
+\providecommand{\urlprefix}{URL }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{DOI \discretionary{}{}{}#1}\else
+  \providecommand{\doi}{DOI \discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem{2011Contemporary}
+O.~Rolf, Contemporary cryptography.
+\newblock Ph.D. thesis, Artech House, Inc. (2011)
+
+\bibitem{chanu2019survey}
+O.B. Chanu, A.~Neelima, International Journal of Multimedia Information
+  Retrieval \textbf{8}(4), 195 (2019).
+\newblock {\color{blue} \href{https://doi.org/10.1007/s13735-018-0161-3}
+  {https://doi.org/10.1007/s13735-018-0161-3}}
+
+\bibitem{shamir1979share}
+A.~Shamir, Communications of the ACM \textbf{22}(11), 612 (1979).
+\newblock {\color{blue} \href{https://doi.org/10.1145/359168.359176}
+  {https://doi.org/10.1145/359168.359176}}
+
+\bibitem{mceliece1981sharing}
+R.J. McEliece, D.V. Sarwate, Communications of the ACM \textbf{24}(9), 583
+  (1981).
+\newblock {\color{blue} \href{https://doi.org/10.1145/358746.358762}
+  {https://doi.org/10.1145/358746.358762}}
+
+\bibitem{blakley1979safeguarding}
+G.R. Blakley, in \emph{International workshop on managing requirements
+  knowledge} (IEEE Computer Society, 1979), pp. 313--313
+
+\bibitem{wang2014simulatable}
+F.~Wang, C.C. Chang, L.~Harn, Security and Communication Networks
+  \textbf{7}(11), 2094 (2014).
+\newblock {\color{blue} \href{https://doi.org/10.1002/SEC.921}
+  {https://doi.org/10.1002/SEC.921}}
+
+\bibitem{hanaoka2002hierarchical}
+G.~Hanaoka, T.~Nishioka, Y.~Zheng, H.~Imai, The Computer Journal
+  \textbf{45}(3), 293 (2002).
+\newblock {\color{blue} \href{https://doi.org/10.1093/comjnl/45.3.293}
+  {https://doi.org/10.1093/comjnl/45.3.293}}
+
+\bibitem{liu2017security}
+J.~Liu, Y.~Wu, X.~Liu, Y.~Zhang, G.~Xue, W.~Zhou, S.~Yao, The Computer Journal
+  \textbf{60}(4), 507 (2017).
+\newblock {\color{blue} \href{https://doi.org/10.1093/comjnl/bxw061}
+  {https://doi.org/10.1093/comjnl/bxw061}}
+
+\bibitem{halpern2004rational}
+J.~Halpern, V.~Teague, in \emph{Proceedings of the thirty-sixth annual ACM
+  symposium on theory of computing} (2004), pp. 623--632
+
+\bibitem{pilaram2021efficient}
+H.~Pilaram, T.~Eghlidos, R.~Toluee, IET Information Security \textbf{15}(1), 98
+  (2021).
+\newblock {\color{blue} \href{https://doi.org/10.1049/ise2.12007}
+  {https://doi.org/10.1049/ise2.12007}}
+
+\bibitem{blanton2020improved}
+M.~Blanton, A.~Kang, C.~Yuan, in \emph{International conference on applied
+  cryptography and network security} (Springer, 2020), pp. 377--397
+
+\bibitem{iftene2007general}
+S.~Iftene, Electronic Notes in Theoretical Computer Science \textbf{186}, 67
+  (2007).
+\newblock {\color{blue} \href{https://doi.org/10.1016/j.entcs.2007.01.065}
+  {https://doi.org/10.1016/j.entcs.2007.01.065}}
+
+\bibitem{PAN2022103405}
+J.S. Pan, T.~Liu, H.M. Yang, B.~Yan, S.C. Chu, T.~Zhu, Journal of Visual
+  Communication and Image Representation \textbf{82}, 103405 (2022)
+
+\bibitem{PAN2021104049}
+J.S. Pan, X.X. Sun, S.C. Chu, A.~Abraham, B.~Yan, Engineering Applications of
+  Artificial Intelligence \textbf{97}, 104049 (2021).
+\newblock {\color{blue} \href{https://doi.org/10.1016/j.engappai.2020.104049}
+  {https://doi.org/10.1016/j.engappai.2020.104049}}
+
+\bibitem{article}
+T.~Liu, B.~Yan, J.S. Pan, Applied Sciences \textbf{9} (2019).
+\newblock {\color{blue} \href{https://doi.org/10.3390/app9214670}
+  {https://doi.org/10.3390/app9214670}}
+
+\bibitem{han2012attribute}
+J.~Han, W.~Susilo, Y.~Mu, J.~Yan, The Computer Journal \textbf{55}(10), 1202
+  (2012).
+\newblock {\color{blue} \href{https://doi.org/10.1093/comjnl/bxs061}
+  {https://doi.org/10.1093/comjnl/bxs061}}
+
+\bibitem{thien2002secret}
+C.C. Thien, J.C. Lin, Computers \& Graphics \textbf{26}(5), 765 (2002).
+\newblock {\color{blue} \href{https://doi.org/10.1016/S0097-8493(02)00131-0}
+  {https://doi.org/10.1016/S0097-8493(02)00131-0}}
+
+\bibitem{kabirirad2019improvement}
+S.~Kabirirad, Z.~Eslami, Journal of Information Security and Applications
+  \textbf{47}, 16 (2019).
+\newblock {\color{blue} \href{https://doi.org/10.1016/j.jisa.2019.03.018}
+  {https://doi.org/10.1016/j.jisa.2019.03.018}}
+
+\bibitem{kumar2022extending}
+S.~Kumar, Multimedia Tools and Applications pp. 1--20 (2022).
+\newblock {\color{blue} \href{https://doi.org/10.1007/s11042-021-11554-z}
+  {https://doi.org/10.1007/s11042-021-11554-z}}
+
+\bibitem{xiong2021cp}
+L.~Xiong, X.~Han, C.N. Yang, Signal Processing \textbf{185}, 108064 (2021).
+\newblock {\color{blue} \href{https://doi.org/10.1016/j.sigpro.2021.108064}
+  {https://doi.org/10.1016/j.sigpro.2021.108064}}
+
+\bibitem{prasetyo2019xor}
+H.~Prasetyo, J.W. Simatupang, in \emph{2019 International Symposium on
+  Intelligent Signal Processing and Communication Systems (ISPACS)} (IEEE,
+  2019), pp. 1--2
+
+\bibitem{wang2006secret}
+R.Z. Wang, C.H. Su, Pattern Recognition Letters \textbf{27}(6), 551 (2006).
+\newblock {\color{blue} \href{https://doi.org/10.1016/j.patrec.2005.09.021}
+  {https://doi.org/110.1016/j.patrec.2005.09.021}}
+
+\bibitem{beimel1994universally}
+A.~Beimel, B.~Chor, IEEE Transactions on Information Theory \textbf{40}(3), 786
+  (1994)
+
+\bibitem{hansen2017secret}
+J.P. Hansen, Contemp. Math \textbf{686}, 171 (2017).
+\newblock {\color{blue} \href{https://doi.org/10.1090/conm/686/13783}
+  {https://doi.org/10.1090/conm/686/13783}}
+
+\bibitem{xing2022information}
+F.~Xing, X.~Yan, L.~Yu, Y.~Sun, Journal of Visual Communication and Image
+  Representation \textbf{86}, 103520 (2022).
+\newblock {\color{blue} \href{https://doi.org/10.1016/j.jvcir.2022.103520}
+  {https://doi.org/10.1016/j.jvcir.2022.103520}}
+
+\bibitem{qin2021reversible}
+C.~Qin, C.~Jiang, Q.~Mo, H.~Yao, C.C. Chang, IEEE Transactions on Circuits and
+  Systems for Video Technology \textbf{32}(4), 1928 (2021).
+\newblock {\color{blue} \href{https://doi.org/10.1109/TCSVT.2021.3091319}
+  {https://doi.org/10.1109/TCSVT.2021.3091319}}
+
+\bibitem{stangl2018fast}
+J.~Stangl, T.~Lor{\"u}nser, S.M.P. Dinakarrao, in \emph{2018 Design, Automation
+  \& Test in Europe Conference \& Exhibition (DATE)} (IEEE, 2018), pp. 654--659
+
+\bibitem{patel2020arithmetic}
+R.~Patel, P.F. Wolfe, R.~Munafo, M.~Varia, M.~Herbordt, in \emph{2020 IEEE High
+  Performance Extreme Computing Conference (HPEC)} (IEEE, 2020), pp. 1--8
+
+\end{thebibliography}
